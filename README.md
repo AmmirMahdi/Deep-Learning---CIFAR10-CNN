@@ -1,1 +1,1 @@
-# Deep-Learning---CIFAR10-CNN
+# Deep-Learning-CIFAR10-CNN
